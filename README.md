@@ -17,8 +17,12 @@ In my free time I play the guitar , I think the musicians and developers share s
 
 --- 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanukelguru&show_icons=true&theme=radical)
+📊 Stats
+  <br/>
+    <a href="https://github.com/nanukelguru/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=nanukelguru&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/nanukelguru/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanukelguru&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
 
 --- 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nanukelguru&theme=radical" alt="nanukelguru" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nanukelguru&theme=react" alt="nanukelguru" /></p>
