@@ -20,4 +20,4 @@ In my free time I play the guitar , I think the musicians and developers share s
 
 --- 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nanukelguru&" alt="nanukelguru" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nanukelguru&theme=radical" alt="nanukelguru" /></p>
