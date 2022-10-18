@@ -11,5 +11,6 @@ In my free time I play the guitar , I think the musicians and developers share s
 <a href="https://www.linkedin.com/in/angelicalc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" https://www.linkedin.com/in/angelicalc/" height="30" width="40" /></a>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanukelguru&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nanukelguru&" alt="nanukelguru" /></p>
