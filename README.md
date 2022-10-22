@@ -23,6 +23,7 @@ In my free time I play the guitar , I think the musicians and developers share s
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href = "linkedin.com/in/angelicalc"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
-<a href = "angelica.lopezcap@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> </a>
+<a href = "https://linkedin.com/in/angelicalc"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
+
 </p>
+
